@@ -3,7 +3,7 @@
 {
     "fileName": "whats-new-in-2015-volume2",
     "controlName": [],
-    "tags": ["controlName"]
+    "tags": []
 }
 |metadata|
 -->
